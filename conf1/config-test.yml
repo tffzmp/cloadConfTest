@@ -1,3 +1,6 @@
-
+cn:
+    springcloud:
+            book: 
+                config: xxxxxxxxxxxxx1
 zmp:
   xxx: xx1
